@@ -1,0 +1,4 @@
+﻿  源1.c
+D:\vs2019\工作存储\第一月\day1\day1\源1.c(6,11): warning C4013: “printf”未定义；假设外部返回 int
+源2.obj : error LNK2005: _main 已经在 源1.obj 中定义
+D:\vs2019\工作存储\第一月\day1\Debug\day1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
